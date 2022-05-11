@@ -49,6 +49,18 @@ public class AllAccountDetails implements Initializable{
 	@Override
 	public void initialize(URL arg0, ResourceBundle arg1) {
 		// TODO Auto-generated method stub
+		try {
+			Main.bank.loadData();
+		} catch (ClassNotFoundException | IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+			try {
+				Main.bank.saveData();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
 		accountType.setValue("Select One");
 		accountType.getItems().addAll(accountTypes);
 		accountType.setOnAction(event);
