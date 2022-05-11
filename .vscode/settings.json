@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/fardeen/Documents/javafx-sdk-17/lib/javafx.graphics.jar",
+        "/home/fardeen/Documents/javafx-sdk-17/lib/javafx.controls.jar",
+        "/home/fardeen/Documents/javafx-sdk-17/lib/javafx.web.jar",
+        "/home/fardeen/Documents/javafx-sdk-17/lib/javafx.base.jar",
+        "/home/fardeen/Documents/javafx-sdk-17/lib/javafx-swt.jar",
+        "/home/fardeen/Documents/javafx-sdk-17/lib/javafx.swing.jar",
+        "/home/fardeen/Documents/javafx-sdk-17/lib/javafx.media.jar",
+        "/home/fardeen/Documents/javafx-sdk-17/lib/javafx.fxml.jar"
+    ]
+}
