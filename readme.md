@@ -20,7 +20,21 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 ## Screenshots
 
-    ![](https://raw.githubusercontent.com/
+    ![ScreenShot 1](https://raw.githubusercontent.com/fardeenes7/BankingSystemJavaFX/main/screenshots/Screenshot_01.png?raw=true)
+
+    ![ScreenShot 2](https://raw.githubusercontent.com/fardeenes7/BankingSystemJavaFX/main/screenshots/Screenshot_02.png?raw=true)
+
+    ![ScreenShot 3](https://raw.githubusercontent.com/fardeenes7/BankingSystemJavaFX/main/screenshots/Screenshot_03.png?raw=true)
+
+    ![ScreenShot 4](https://raw.githubusercontent.com/fardeenes7/BankingSystemJavaFX/main/screenshots/Screenshot_04.png?raw=true)
+
+    ![ScreenShot 5](https://raw.githubusercontent.com/fardeenes7/BankingSystemJavaFX/main/screenshots/Screenshot_05.png?raw=true)
+
+    ![ScreenShot 6](https://raw.githubusercontent.com/fardeenes7/BankingSystemJavaFX/main/screenshots/Screenshot_06.png?raw=true)
+
+    ![ScreenShot 7](https://raw.githubusercontent.com/fardeenes7/BankingSystemJavaFX/main/screenshots/Screenshot_07.png?raw=true)
+
+    ![ScreenShot 8](https://raw.githubusercontent.com/fardeenes7/BankingSystemJavaFX/main/screenshots/Screenshot_08.png?raw=true)
 
 ## Dependency Management
 
